@@ -1,3 +1,7 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 /* common shared style */
 body {
     font-family: 'Open Sans', sans-serif;
@@ -53,6 +57,7 @@ nav a {
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    margin-top: 50px;
 }
 
 .banner {
@@ -82,4 +87,17 @@ width: 500px;
 .banner-des {
     margin-top: 0;
     max-width: 550px;
+    margin-bottom: 30px;
 }
+
+.profile-pic {
+    margin-bottom: -5px;
+}
+
+.cv {
+    margin-right: 30px;
+}
+
+/* main section style */
+
+/* about section style */
